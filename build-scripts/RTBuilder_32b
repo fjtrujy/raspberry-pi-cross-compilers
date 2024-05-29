@@ -26,6 +26,7 @@
 
 set -eo pipefail
 
+
 helpfunction() {
 	#helper function that prints custom usage help menu
 	echo ""
